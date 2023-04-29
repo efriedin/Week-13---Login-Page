@@ -1,0 +1,56 @@
+.main{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 100px 0 100px 0;
+  background-color: grey;
+}
+
+.sub-main{
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 35%;
+  box-shadow: 11px 12px 1px 12px rgb(207, 207, 207);
+  padding-top: 50px;
+  border-radius: 60px;
+  background-color: white;
+}
+
+input{
+  display: flex;
+  width: 225px;
+  height:  50px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+}
+
+.second-input {
+  padding-top: 20px;
+}
+
+button {
+  width: 225px;
+  height: 50px;
+  border-radius: 60px;
+  background-color: #b103fc;
+  color: white;
+  font-size: 25px;
+  border: none;
+}
+
+.login-button{
+  padding-top: 25px;
+}
+
+.Link {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+a{
+  color: blue;
+}
